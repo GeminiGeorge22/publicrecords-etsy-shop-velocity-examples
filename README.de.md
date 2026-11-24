@@ -1,5 +1,8 @@
 # Etsy Shop Daily Sales — Beispiele
 
+[![In Colab öffnen](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-etsy-shop-velocity-examples/blob/main/notebooks/quickstart.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-etsy-shop-velocity-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+
 Tages-, 7-Tage- und 28-Tage-Verkäufe von Etsy-Shops anhand des öffentlichen Verkaufszählers.
 
 Der Actor läuft auf **deinem** Apify-Konto (API-Token oder OAuth). Die Nutzung wird dir auf dem kostenlosen oder bezahlten Apify-Tarif berechnet.
