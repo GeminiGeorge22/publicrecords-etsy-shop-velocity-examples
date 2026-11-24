@@ -1,7 +1,6 @@
-# Etsy Shop Daily Sales — 使用例
+**READMEs:** [English](README.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md) · [Português](README.pt.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [简体中文](README.zh-CN.md) · [한국어](README.ko.md)
 
-[![Colabで開く](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeminiGeorge22/publicrecords-etsy-shop-velocity-examples/blob/main/notebooks/quickstart.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GeminiGeorge22/publicrecords-etsy-shop-velocity-examples/HEAD?labpath=notebooks%2Fquickstart.ipynb)
+# Etsy Shop Daily Sales — 使用例
 
 各ショップの公開販売カウンターから、Etsyショップの日次・7日・28日販売数を取得。
 
@@ -25,4 +24,3 @@ python3 examples/python/run.py
 
 Python・JavaScript・curlの例は `examples/` にあります。作者: Public Records。ライセンス: MIT。このリポジトリにGitHub Actionsはありません。
 
-READMEs: [English](README.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [Português](README.pt.md)
